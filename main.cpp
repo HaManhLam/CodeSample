@@ -109,6 +109,5 @@ void Student_arrangeScore(StdProfile* stdProf){
 			}
 		}
 	}
-
 	Student_export(stdProf);
 }
